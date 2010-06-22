@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 # Разбор xml файла ozon'a
-# Автор: zerc.ru
+# Автор: http://zerc.ru
 
 from BeautifulSoup import BeautifulStoneSoup
 from template import csv
